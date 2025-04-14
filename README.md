@@ -70,7 +70,7 @@ Crop Yield (in kg/ha)
 
 Clone the repository:
 
-git clone https://github.com/your-username/crop-recommender-system.git
+git clone https://github.com/VikasReddy28/Crop-recommender-System-Using-ML.git
 
 cd crop-recommender-system
 
