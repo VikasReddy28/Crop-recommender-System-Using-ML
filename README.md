@@ -118,3 +118,16 @@ Output: Predicted yield: 3250 kg/ha
 
 🧪 More diverse datasets for wider applicability
 
+
+
+👨‍💻 Authors
+
+M. Vikas Reddy - Main Author
+
+
+🙌 Contributors
+
+M. Sai Harsha 
+
+K. Kaushal 
+
